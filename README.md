@@ -3,3 +3,5 @@ Just a 2d game
 <br>
 for fun 2 player game
 (just for fun)
+<br>
+just add complete code in python
